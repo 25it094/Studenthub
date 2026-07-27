@@ -1,13 +1,79 @@
-header{
-    background-color: blue;
-    color: blue;
-    padding:20px;
-    text-align: center;
-    border-radius: 10px;
-}
 body{
-    background-color: #f4f7fb;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 20px;
+
+font-family: Arial, sans-serif;
+
+margin:40px;
+
+background:#f4f4f4;
+
 }
 
+header{
+
+background:#0056b3;
+
+color:white;
+
+padding:20px;
+
+}
+
+nav a{
+
+color:white;
+
+margin-right:15px;
+
+text-decoration:none;
+
+}
+
+h1{
+
+color:#003366;
+
+}
+
+table{
+
+border-collapse:collapse;
+
+width:60%;
+
+}
+
+th{
+
+background:#0056b3;
+
+color:white;
+
+padding:10px;
+
+}
+
+td{
+
+padding:10px;
+
+}
+
+button{
+
+padding:10px 20px;
+
+background:#0056b3;
+
+color:white;
+
+border:none;
+
+cursor:pointer;
+
+}
+
+footer{
+
+margin-top:30px;
+
+}
